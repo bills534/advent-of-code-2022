@@ -1,10 +1,8 @@
 
 
-testlist = ['S', 'V', 'F', 'M', 'R']
-testadd = ['X', 'Y']
+thing = 'teststring'
 
-print(testlist[-3:])
-print(testlist[:-3])
-print(testlist + testadd)
+for x in range(len(thing)):
+    print(thing[x:x+4])
 
 
