@@ -1,8 +1,14 @@
 
+from pathlib import Path
 
-thing = 'teststring'
+myPath = 'root/abc/cbs'
 
-for x in range(len(thing)):
-    print(thing[x:x+4])
+fancyPath = Path(myPath)
+upDir = fancyPath.parent
 
+print(fancyPath)
+fancyPath = fancyPath.parent
+print(fancyPath)
+fancyPath = fancyPath.joinpath('cheese')
+print(fancyPath)
 

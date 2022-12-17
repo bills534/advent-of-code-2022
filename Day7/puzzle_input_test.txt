@@ -1,0 +1,25 @@
+$ ls
+dir bqm
+dir ctztn
+dir dbclg
+dir fhndmnt
+dir gczqbh
+276177 hvbf.lvm
+dir lnsgbqp
+dir pblb
+dir pwfs
+209719 rtv.cjj
+192236 vmtnnfv.mdq
+dir vmvpf
+dir wjgh
+dir wjqsq
+$ cd bqm
+$ ls
+133711 vqv
+263237 wwlv.vgv
+$ cd ..
+$ cd ctztn
+$ ls
+dir gpgbfzbs
+dir hfvqpt
+55466 jshtffs
